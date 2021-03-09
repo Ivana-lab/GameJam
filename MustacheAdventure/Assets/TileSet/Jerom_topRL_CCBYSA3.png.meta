@@ -1,0 +1,2034 @@
+fileFormatVersion: 2
+guid: 04c96bdc1160cf141991db1c66221133
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jerom_topRL_CCBYSA3_0
+    21300002: Jerom_topRL_CCBYSA3_1
+    21300004: Jerom_topRL_CCBYSA3_2
+    21300006: Jerom_topRL_CCBYSA3_3
+    21300008: Jerom_topRL_CCBYSA3_4
+    21300010: Jerom_topRL_CCBYSA3_5
+    21300012: Jerom_topRL_CCBYSA3_6
+    21300014: Jerom_topRL_CCBYSA3_7
+    21300016: Jerom_topRL_CCBYSA3_8
+    21300018: Jerom_topRL_CCBYSA3_9
+    21300020: Jerom_topRL_CCBYSA3_10
+    21300022: Jerom_topRL_CCBYSA3_11
+    21300024: Jerom_topRL_CCBYSA3_12
+    21300026: Jerom_topRL_CCBYSA3_13
+    21300028: Jerom_topRL_CCBYSA3_14
+    21300030: Jerom_topRL_CCBYSA3_15
+    21300032: Jerom_topRL_CCBYSA3_16
+    21300034: Jerom_topRL_CCBYSA3_17
+    21300036: Jerom_topRL_CCBYSA3_18
+    21300038: Jerom_topRL_CCBYSA3_19
+    21300040: Jerom_topRL_CCBYSA3_20
+    21300042: Jerom_topRL_CCBYSA3_21
+    21300044: Jerom_topRL_CCBYSA3_22
+    21300046: Jerom_topRL_CCBYSA3_23
+    21300048: Jerom_topRL_CCBYSA3_24
+    21300050: Jerom_topRL_CCBYSA3_25
+    21300052: Jerom_topRL_CCBYSA3_26
+    21300054: Jerom_topRL_CCBYSA3_27
+    21300056: Jerom_topRL_CCBYSA3_28
+    21300058: Jerom_topRL_CCBYSA3_29
+    21300060: Jerom_topRL_CCBYSA3_30
+    21300062: Jerom_topRL_CCBYSA3_31
+    21300064: Jerom_topRL_CCBYSA3_32
+    21300066: Jerom_topRL_CCBYSA3_33
+    21300068: Jerom_topRL_CCBYSA3_34
+    21300070: Jerom_topRL_CCBYSA3_35
+    21300072: Jerom_topRL_CCBYSA3_36
+    21300074: Jerom_topRL_CCBYSA3_37
+    21300076: Jerom_topRL_CCBYSA3_38
+    21300078: Jerom_topRL_CCBYSA3_39
+    21300080: Jerom_topRL_CCBYSA3_40
+    21300082: Jerom_topRL_CCBYSA3_41
+    21300084: Jerom_topRL_CCBYSA3_42
+    21300086: Jerom_topRL_CCBYSA3_43
+    21300088: Jerom_topRL_CCBYSA3_44
+    21300090: Jerom_topRL_CCBYSA3_45
+    21300092: Jerom_topRL_CCBYSA3_46
+    21300094: Jerom_topRL_CCBYSA3_47
+    21300096: Jerom_topRL_CCBYSA3_48
+    21300098: Jerom_topRL_CCBYSA3_49
+    21300100: Jerom_topRL_CCBYSA3_50
+    21300102: Jerom_topRL_CCBYSA3_51
+    21300104: Jerom_topRL_CCBYSA3_52
+    21300106: Jerom_topRL_CCBYSA3_53
+    21300108: Jerom_topRL_CCBYSA3_54
+    21300110: Jerom_topRL_CCBYSA3_55
+    21300112: Jerom_topRL_CCBYSA3_56
+    21300114: Jerom_topRL_CCBYSA3_57
+    21300116: Jerom_topRL_CCBYSA3_58
+    21300118: Jerom_topRL_CCBYSA3_59
+    21300120: Jerom_topRL_CCBYSA3_60
+    21300122: Jerom_topRL_CCBYSA3_61
+    21300124: Jerom_topRL_CCBYSA3_62
+    21300126: Jerom_topRL_CCBYSA3_63
+    21300128: Jerom_topRL_CCBYSA3_64
+    21300130: Jerom_topRL_CCBYSA3_65
+    21300132: Jerom_topRL_CCBYSA3_66
+    21300134: Jerom_topRL_CCBYSA3_67
+    21300136: Jerom_topRL_CCBYSA3_68
+    21300138: Jerom_topRL_CCBYSA3_69
+    21300140: Jerom_topRL_CCBYSA3_70
+    21300142: Jerom_topRL_CCBYSA3_71
+    21300144: Jerom_topRL_CCBYSA3_72
+    21300146: Jerom_topRL_CCBYSA3_73
+    21300148: Jerom_topRL_CCBYSA3_74
+    21300150: Jerom_topRL_CCBYSA3_75
+    21300152: Jerom_topRL_CCBYSA3_76
+    21300154: Jerom_topRL_CCBYSA3_77
+    21300156: Jerom_topRL_CCBYSA3_78
+    21300158: Jerom_topRL_CCBYSA3_79
+    21300160: Jerom_topRL_CCBYSA3_80
+    21300162: Jerom_topRL_CCBYSA3_81
+    21300164: Jerom_topRL_CCBYSA3_82
+    21300166: Jerom_topRL_CCBYSA3_83
+    21300168: Jerom_topRL_CCBYSA3_84
+    21300170: Jerom_topRL_CCBYSA3_85
+    21300172: Jerom_topRL_CCBYSA3_86
+    21300174: Jerom_topRL_CCBYSA3_87
+    21300176: Jerom_topRL_CCBYSA3_88
+    21300178: Jerom_topRL_CCBYSA3_89
+    21300180: Jerom_topRL_CCBYSA3_90
+    21300182: Jerom_topRL_CCBYSA3_91
+    21300184: Jerom_topRL_CCBYSA3_92
+    21300186: Jerom_topRL_CCBYSA3_93
+    21300188: Jerom_topRL_CCBYSA3_94
+    21300190: Jerom_topRL_CCBYSA3_95
+    21300192: Jerom_topRL_CCBYSA3_96
+    21300194: Jerom_topRL_CCBYSA3_97
+    21300196: Jerom_topRL_CCBYSA3_98
+    21300198: Jerom_topRL_CCBYSA3_99
+    21300200: Jerom_topRL_CCBYSA3_100
+    21300202: Jerom_topRL_CCBYSA3_101
+    21300204: Jerom_topRL_CCBYSA3_102
+    21300206: Jerom_topRL_CCBYSA3_103
+    21300208: Jerom_topRL_CCBYSA3_104
+    21300210: Jerom_topRL_CCBYSA3_105
+    21300212: Jerom_topRL_CCBYSA3_106
+    21300214: Jerom_topRL_CCBYSA3_107
+    21300216: Jerom_topRL_CCBYSA3_108
+    21300218: Jerom_topRL_CCBYSA3_109
+    21300220: Jerom_topRL_CCBYSA3_110
+    21300222: Jerom_topRL_CCBYSA3_111
+    21300224: Jerom_topRL_CCBYSA3_112
+    21300226: Jerom_topRL_CCBYSA3_113
+    21300228: Jerom_topRL_CCBYSA3_114
+    21300230: Jerom_topRL_CCBYSA3_115
+    21300232: Jerom_topRL_CCBYSA3_116
+    21300234: Jerom_topRL_CCBYSA3_117
+    21300236: Jerom_topRL_CCBYSA3_118
+    21300238: Jerom_topRL_CCBYSA3_119
+    21300240: Jerom_topRL_CCBYSA3_120
+    21300242: Jerom_topRL_CCBYSA3_121
+    21300244: Jerom_topRL_CCBYSA3_122
+    21300246: Jerom_topRL_CCBYSA3_123
+    21300248: Jerom_topRL_CCBYSA3_124
+    21300250: Jerom_topRL_CCBYSA3_125
+    21300252: Jerom_topRL_CCBYSA3_126
+    21300254: Jerom_topRL_CCBYSA3_127
+    21300256: Jerom_topRL_CCBYSA3_128
+    21300258: Jerom_topRL_CCBYSA3_129
+    21300260: Jerom_topRL_CCBYSA3_130
+    21300262: Jerom_topRL_CCBYSA3_131
+    21300264: Jerom_topRL_CCBYSA3_132
+    21300266: Jerom_topRL_CCBYSA3_133
+    21300268: Jerom_topRL_CCBYSA3_134
+    21300270: Jerom_topRL_CCBYSA3_135
+    21300272: Jerom_topRL_CCBYSA3_136
+    21300274: Jerom_topRL_CCBYSA3_137
+    21300276: Jerom_topRL_CCBYSA3_138
+    21300278: Jerom_topRL_CCBYSA3_139
+    21300280: Jerom_topRL_CCBYSA3_140
+    21300282: Jerom_topRL_CCBYSA3_141
+    21300284: Jerom_topRL_CCBYSA3_142
+    21300286: Jerom_topRL_CCBYSA3_143
+    21300288: Jerom_topRL_CCBYSA3_144
+    21300290: Jerom_topRL_CCBYSA3_145
+    21300292: Jerom_topRL_CCBYSA3_146
+    21300294: Jerom_topRL_CCBYSA3_147
+    21300296: Jerom_topRL_CCBYSA3_148
+    21300298: Jerom_topRL_CCBYSA3_149
+    21300300: Jerom_topRL_CCBYSA3_150
+    21300302: Jerom_topRL_CCBYSA3_151
+    21300304: Jerom_topRL_CCBYSA3_152
+    21300306: Jerom_topRL_CCBYSA3_153
+    21300308: Jerom_topRL_CCBYSA3_154
+    21300310: Jerom_topRL_CCBYSA3_155
+    21300312: Jerom_topRL_CCBYSA3_156
+    21300314: Jerom_topRL_CCBYSA3_157
+    21300316: Jerom_topRL_CCBYSA3_158
+    21300318: Jerom_topRL_CCBYSA3_159
+    21300320: Jerom_topRL_CCBYSA3_160
+    21300322: Jerom_topRL_CCBYSA3_161
+    21300324: Jerom_topRL_CCBYSA3_162
+    21300326: Jerom_topRL_CCBYSA3_163
+    21300328: Jerom_topRL_CCBYSA3_164
+    21300330: Jerom_topRL_CCBYSA3_165
+    21300332: Jerom_topRL_CCBYSA3_166
+    21300334: Jerom_topRL_CCBYSA3_167
+    21300336: Jerom_topRL_CCBYSA3_168
+    21300338: Jerom_topRL_CCBYSA3_169
+    21300340: Jerom_topRL_CCBYSA3_170
+    21300342: Jerom_topRL_CCBYSA3_171
+    21300344: Jerom_topRL_CCBYSA3_172
+    21300346: Jerom_topRL_CCBYSA3_173
+    21300348: Jerom_topRL_CCBYSA3_174
+    21300350: Jerom_topRL_CCBYSA3_175
+    21300352: Jerom_topRL_CCBYSA3_176
+    21300354: Jerom_topRL_CCBYSA3_177
+    21300356: Jerom_topRL_CCBYSA3_178
+    21300358: Jerom_topRL_CCBYSA3_179
+    21300360: Jerom_topRL_CCBYSA3_180
+    21300362: Jerom_topRL_CCBYSA3_181
+    21300364: Jerom_topRL_CCBYSA3_182
+    21300366: Jerom_topRL_CCBYSA3_183
+    21300368: Jerom_topRL_CCBYSA3_184
+    21300370: Jerom_topRL_CCBYSA3_185
+    21300372: Jerom_topRL_CCBYSA3_186
+    21300374: Jerom_topRL_CCBYSA3_187
+    21300376: Jerom_topRL_CCBYSA3_188
+    21300378: Jerom_topRL_CCBYSA3_189
+    21300380: Jerom_topRL_CCBYSA3_190
+    21300382: Jerom_topRL_CCBYSA3_191
+    21300384: Jerom_topRL_CCBYSA3_192
+    21300386: Jerom_topRL_CCBYSA3_193
+    21300388: Jerom_topRL_CCBYSA3_194
+    21300390: Jerom_topRL_CCBYSA3_195
+    21300392: Jerom_topRL_CCBYSA3_196
+    21300394: Jerom_topRL_CCBYSA3_197
+    21300396: Jerom_topRL_CCBYSA3_198
+    21300398: Jerom_topRL_CCBYSA3_199
+    21300400: Jerom_topRL_CCBYSA3_200
+    21300402: Jerom_topRL_CCBYSA3_201
+    21300404: Jerom_topRL_CCBYSA3_202
+    21300406: Jerom_topRL_CCBYSA3_203
+    21300408: Jerom_topRL_CCBYSA3_204
+    21300410: Jerom_topRL_CCBYSA3_205
+    21300412: Jerom_topRL_CCBYSA3_206
+    21300414: Jerom_topRL_CCBYSA3_207
+    21300416: Jerom_topRL_CCBYSA3_208
+    21300418: Jerom_topRL_CCBYSA3_209
+    21300420: Jerom_topRL_CCBYSA3_210
+    21300422: Jerom_topRL_CCBYSA3_211
+    21300424: Jerom_topRL_CCBYSA3_212
+    21300426: Jerom_topRL_CCBYSA3_213
+    21300428: Jerom_topRL_CCBYSA3_214
+    21300430: Jerom_topRL_CCBYSA3_215
+    21300432: Jerom_topRL_CCBYSA3_216
+    21300434: Jerom_topRL_CCBYSA3_217
+    21300436: Jerom_topRL_CCBYSA3_218
+    21300438: Jerom_topRL_CCBYSA3_219
+    21300440: Jerom_topRL_CCBYSA3_220
+    21300442: Jerom_topRL_CCBYSA3_221
+    21300444: Jerom_topRL_CCBYSA3_222
+    21300446: Jerom_topRL_CCBYSA3_223
+    21300448: Jerom_topRL_CCBYSA3_224
+    21300450: Jerom_topRL_CCBYSA3_225
+    21300452: Jerom_topRL_CCBYSA3_226
+    21300454: Jerom_topRL_CCBYSA3_227
+    21300456: Jerom_topRL_CCBYSA3_228
+    21300458: Jerom_topRL_CCBYSA3_229
+    21300460: Jerom_topRL_CCBYSA3_230
+    21300462: Jerom_topRL_CCBYSA3_231
+    21300464: Jerom_topRL_CCBYSA3_232
+    21300466: Jerom_topRL_CCBYSA3_233
+    21300468: Jerom_topRL_CCBYSA3_234
+    21300470: Jerom_topRL_CCBYSA3_235
+    21300472: Jerom_topRL_CCBYSA3_236
+    21300474: Jerom_topRL_CCBYSA3_237
+    21300476: Jerom_topRL_CCBYSA3_238
+    21300478: Jerom_topRL_CCBYSA3_239
+    21300480: Jerom_topRL_CCBYSA3_240
+    21300482: Jerom_topRL_CCBYSA3_241
+    21300484: Jerom_topRL_CCBYSA3_242
+    21300486: Jerom_topRL_CCBYSA3_243
+    21300488: Jerom_topRL_CCBYSA3_244
+    21300490: Jerom_topRL_CCBYSA3_245
+    21300492: Jerom_topRL_CCBYSA3_246
+    21300494: Jerom_topRL_CCBYSA3_247
+    21300496: Jerom_topRL_CCBYSA3_248
+    21300498: Jerom_topRL_CCBYSA3_249
+    21300500: Jerom_topRL_CCBYSA3_250
+    21300502: Jerom_topRL_CCBYSA3_251
+    21300504: Jerom_topRL_CCBYSA3_252
+    21300506: Jerom_topRL_CCBYSA3_253
+    21300508: Jerom_topRL_CCBYSA3_254
+    21300510: Jerom_topRL_CCBYSA3_255
+    21300512: Jerom_topRL_CCBYSA3_256
+    21300514: Jerom_topRL_CCBYSA3_257
+    21300516: Jerom_topRL_CCBYSA3_258
+    21300518: Jerom_topRL_CCBYSA3_259
+    21300520: Jerom_topRL_CCBYSA3_260
+    21300522: Jerom_topRL_CCBYSA3_261
+    21300524: Jerom_topRL_CCBYSA3_262
+    21300526: Jerom_topRL_CCBYSA3_263
+    21300528: Jerom_topRL_CCBYSA3_264
+    21300530: Jerom_topRL_CCBYSA3_265
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f3bce0aea1274d8441e2549ec4bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3589f1f0f72524398d8ef8e5f9b2e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bbaf5a338c18948b98348d274145c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ba04677eae284da860f50c10bef5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0cee13a7d6d84d86bc2cbcdb2a1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7616425f1cbb5f4ea0b028782b237dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d443280bf9cb4aa5f2a0ceccf0487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9e371e7b20c354491b3dd3ea5c4ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb173df292547544390e1491c007a099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e25d6e9e37b2449a53d6c3afa3bec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c03fd3e739b545a9fcc5501bbb149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ceeab6502683d47a3255810aa22470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd6643ea7dbd0846809a007d2124435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b97e106a75e7a4eaba5e00300756da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8a40daa32032b48ab20c09090da7e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da9856dcfbb28448ac0cfac4c14621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8a0a02d3beb842bbdb7ec7c2952fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b4f95814ca3641adcf56c3c627af6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe6bf6437adca48bc7d177c34680b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff0ef81e74f8d94a9ab18a3bc5740b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909702291ba761c46bc52d742bf9108d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a7b832c87f75441ac559e1950e9872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9524df9873f9947ba77ddc94539a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90abe18fc0d214bb5d9d876fb3b57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f6adfeb156a02449f9571bc3aa1c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f615bca03a981bf45b91467dccc91321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6138da7619cff448558c86eb42cc82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c5e6181838ab4c8b43ed33991e1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587c6e2bc15b46489a2db956eb696db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a50ff6fc3c1f42b0226fbc2186bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d3ac22ec51284e903f745caa82958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97263eb7d08f0ed44b41a9aad7ebeed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd1cb57aab8e948b298555fb419c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f45f37f6c92ebe45ac09da85e2d05d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19fb0dbf525334c8744fb17ff65325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ff5d8425f560449a3dfe3df986f02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b00d2787bccc4f8342fa9f9d194fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7ff41da91e9e248869566028df9841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a157bc41427884a9a69dbb48be1274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768eec0de98e70b42a721e7beb56e8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f0adf8c9d02841a1d53d159d5fc8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb660e5a5edd9124fa4e21574d6e320c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c339c7dcb08dc04da27d40e446ec5d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6415188a8d6ec79499d4a10d686d6d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49a5409da0ae354ebd3e072e7e2fb36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d77cf0b690dcf44aac621b96ae5cdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dce1a9db49df5458959f8c798dc4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a4451c14669f4ca92046e482ddc58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50f5de6d809a84f96fe7a3008f071e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22867b159b7a05d499ca5f24d273fddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf115d3bc98ead489411e736261a33a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc02afa2e13b354e833004e5d5260ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d12ca08ca4e864c9d5a955ece91bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f5cf9c2e058134eb766e47c837a258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a6adbefb27f5f4aba8708e1e4fb882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133798d16e11abd4bbeceff6c3947257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4842fd275d697ee40a0045d18b1b9d1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11264d9ef92a9ce4795d332d9a0dffa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df8128527722a43a9b296a2346438b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9adb3e4111a9949aef921e0adf3577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db4cc14bf1b98e4584cd988180e7b53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba17ec273d0034a80ce86842e62a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb371d3af934c49468d42b27acf2985e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b673b498bfa2f649b440b196660b8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70eeebeb984e5e4a9d3735c6f06c4b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e620819ed63f44b32bb9983c3b2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f074b53caa27b42876bc14651647f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51af1174dcc37f3498587cbcfe6d487b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20444ae64cd8a54d940c1c94c9feb28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423dd8840b593a04b84141245d076589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1fd985a946ae4a8f67048293349d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280826a1f0f306948b7773d9065a09bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81bcbc7f4560e41bc0727e4b297703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7cb569b1d15c4f88cf4b44d92783c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f8377451ba9c4abde85372aa88a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c966a074e7a2f4f9374d25fa4fa214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750778ee7266a849ad82bc62a87acb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6b6a9370653364394cb8a6c91ee553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1d2e787cc764b43977227e8c7c8f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b1abbb5c9da848bee026a56050b96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a367afa02b2d5e4c9dea5474727c020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978b48716c1cf541bb1efd2e337b591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21626f1d4be9f5d4a86c1c4fa916fc17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jerom_topRL_CCBYSA3_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f4781fd43af446a09ea018740d82a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 76260878904768947bbc337269d2dc3f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
