@@ -8,6 +8,8 @@ public class MaryScript : MonoBehaviour
 
     public GameObject effect;
 
+    public bool talkDone = false;
+
     private void Awake()
     {
         endHintButton.onClick.AddListener(CloseHintPanel);
@@ -16,9 +18,10 @@ public class MaryScript : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D collision)
     {
         PlayerMove pl = collision.gameObject.GetComponent<PlayerMove>();
-        if (pl != null)
+        if (pl != null && !talkDone)
         {
             hintPanel.SetActive(true);
+            talkDone = true;
         }
     }
 
